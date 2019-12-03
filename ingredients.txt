@@ -2,3 +2,5 @@ phyllo
 walnuts
 butter
 honey
+sugar
+cinnamon
