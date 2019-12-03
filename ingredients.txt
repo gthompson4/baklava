@@ -4,4 +4,3 @@ butter
 honey
 sugar
 cinnamon
-frog
